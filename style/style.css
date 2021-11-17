@@ -11,7 +11,7 @@
 
 body{
 background-color: var(--preta);
-font-family: 'Times New Roman', Times, serif;
+font-family: 'Arial', Times, serif;
 color: white;
 
 }
@@ -86,6 +86,26 @@ color: black;
 
 .botao i{
     margin-right: 8px;
+}
+
+.container{
+    margin-left: 20px;
+}
+
+.filme-principal .container{
+    width: 70%;
+
+
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: ;
+}
+
+.carossel-filme{
+    margin-top: 5px;
 }
 
 
